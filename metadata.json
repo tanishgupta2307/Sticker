@@ -1,0 +1,5 @@
+{
+  "name": "Sticker Generator",
+  "description": "Generate custom, high-quality stickers in various styles using Gemini AI. Save, download, and share your creations instantly.",
+  "requestFramePermissions": []
+}
